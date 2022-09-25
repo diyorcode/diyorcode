@@ -9,9 +9,9 @@
 
 - 🌱 I'm currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://t.me//Rekard_group)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://t.me//diyorcode)**
 
-- 📫 How to reach me **rekardgroup@gmail.com**
+- 📫 How to reach me **diyorcode@gmail.com**
 
 - ⚡ Fun fact **I like writing code**
 
@@ -47,8 +47,8 @@
 <p align="left">
  
 <a href = "https://www.youtube.com/channel/UCXjdTCrXyhMKnvoUwg_e8Qw" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://t.me//Rekard_Group" target="blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-<a href = "https://www.linkedin.com/in/diyorbek-nurullayev/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://t.me//diyorcode" target="blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href = "https://www.linkedin.com/in/diyorcode/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://instagram.com/diyorcode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyorcode" alignItems="center" height="40" width="40" /></a>
 
 </p>
