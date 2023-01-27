@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://t.me//diyorcode)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://t.me//diorblog)**
 
 - 📫 How to reach me **diyorcode@gmail.com**
 
