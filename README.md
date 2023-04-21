@@ -46,10 +46,10 @@
 
 <p align="left">
  
-<a href = "https://www.youtube.com/channel/UCXjdTCrXyhMKnvoUwg_e8Qw" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://t.me//diorblog" target="blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-<a href = "https://www.linkedin.com/in/diyorcode/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://instagram.com/diyorcode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyorcode" alignItems="center" height="40" width="40" /></a>
+<a href = "https://www.youtube.com/@diorcoder" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://t.me//diorcoder" target="blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href = "https://www.linkedin.com/in/diorcoder/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://instagram.com/diorcoder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyorcode" alignItems="center" height="40" width="40" /></a>
 
 </p>
 
